@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Yashavi! 👋
 
-<!--
-**Yashavi15/Yashavi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Third-Year B.Tech AI & ML Student
 
-Here are some ideas to get you started:
+I'm an undergraduate student interested in
+Artificial Intelligence, Machine Learning,
+and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- Programming: Python, SQL
+- Libraries: Pandas, NumPy, Scikit-learn
+- Data Visualization: Matplotlib, Seaborn
+- Tools: VS Code, Jupyter Notebook, Google Colab
+
+### 🚀 Featured Projects
+
+- Remaining Useful Life (RUL) Prediction
+- Python Projects and Experiments
+
+### 🌱 Currently Learning
+
+- Machine Learning
+- Python Development
+- Data Analytics
+
+### 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/yashavi-kharwar-448b16379
